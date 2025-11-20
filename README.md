@@ -1,5 +1,3 @@
-# EXP 5 : SPEECH RECOGNITION USING SCILAB
-
 ## AIM: 
 
 To perform and verify speech recognition using SCILAB. 
